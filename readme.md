@@ -2,7 +2,7 @@
 
 Breakout board for the [XL7105-SY-B 2.4GHz RF transceiver module](https://www.aliexpress.com/item/MD7105-SY-A7105-2-4G-Wireless-Transceiver-Module-3-3V-Better-Than-CC2500-NRF24L01/32810870556.html).
 
-Sometimes sold under the name MD7105-SY and features the A7105 transceiver.
+Sometimes sold under the name MD7105-SY and features the [AMICCOM A7105 transceiver](http://www.amiccom.com.tw/asp/product_detail.asp?CATG_ID=2&PRODUCT_ID=64).
 
 Order the board from OSH Park here: <https://oshpark.com/shared_projects/TcscxbDi>
 
@@ -11,6 +11,14 @@ Order the board from OSH Park here: <https://oshpark.com/shared_projects/TcscxbD
 Only component you need is 1x7 straight or right-angle 2.54mm headers.
 
 Designed using [KiCad](http://kicad-pcb.org/).
+
+# OSH Park Purple PCBs
+
+![bare.jpg](images/bare.jpg)
+
+![soldered.jpg](images/soldered.jpg)
+
+![finished.jpg](images/finished.jpg)
 
 # Models
 
