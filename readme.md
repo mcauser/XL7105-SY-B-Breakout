@@ -40,3 +40,7 @@ Designed using [KiCad](http://kicad-pcb.org/).
 
 * [XL7105-SY-B 2.4GHz RF transceiver module](https://www.aliexpress.com/item/MD7105-SY-A7105-2-4G-Wireless-Transceiver-Module-3-3V-Better-Than-CC2500-NRF24L01/32810870556.html)
 * [Order the board on OSH Park](https://oshpark.com/shared_projects/TcscxbDi)
+
+# License
+
+Licensed under the [MIT License](http://opensource.org/licenses/MIT).
